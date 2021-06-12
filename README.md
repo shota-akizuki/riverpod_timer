@@ -1,6 +1,6 @@
 # riverpod_timer
 
-A new Flutter project.
+https://medium.com/flutter-community/flutter-riverpod-tutorial-timer-app-186d04637775
 
 ## Getting Started
 
